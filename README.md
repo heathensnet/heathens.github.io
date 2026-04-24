@@ -1,1 +1,5 @@
-# heathens.github.io
+Hey, I’m Heathen. I’m currently following The Odin Project, and this is my page for both working on that and chronicling my journey with it.
+
+I taught myself how to code on my dad’s TRS-80 when I was in kindergarten, ran my own website and forum system as a teen, and worked as the defacto IT guy at a marketing research company (involving maintaining a 12 computer network, managing our job and respondent databases, and setting up/doing upkeep for our A/V system. This fall I’m starting school for IT/Program Development.
+
+Outside of coding, my hobbies are Magic the Gathering, D&D, video games (mostly Minecraft atm, I’m building a homelab that started out as hosting a simple server for family and friends and quickly spun out of control lol, but also Diablo 2, Fallout, Bioshock, Portal, and others), exploring and camping, and art. I have a close-knit (too close sometimes) family, an amazing group of friends, and an amazing girlfriend who somehow puts up with my intense periods of hyper-focus, and long-winded explanations of tech concepts, even if she doesn’t always “get it”.
