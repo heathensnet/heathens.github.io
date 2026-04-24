@@ -22,7 +22,7 @@ defaults:
       layout: "post"
 
 future: true
-theme: pages-themes/hacker@v0.2.0
+theme: hacker
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
